@@ -7,7 +7,7 @@
 > Its a work in progress!
 
 ## Preview
----
+
 
 > Apple iPad version and Nexus 5 mobile version
 
@@ -17,7 +17,7 @@
 </p>
 
 ## Getting started
----
+
 
 Perform following steps to start:
 
@@ -29,7 +29,7 @@ cd <git repository folder>
 Click on `index.html` available in the root directory to open the portfolio website in a broswer of your choice (Google Chrome, Mozilla Firefox, Microsoft Internet explorer)
 
 ## Project structure
----
+
 
 * `css` folder contains all the CSS (Cascading Stylesheets) files.
 
@@ -44,13 +44,13 @@ Click on `index.html` available in the root directory to open the portfolio webs
 * `less` and `scss` files are related to font-awesome
 
 ## Validation checks
----
+
 
 * [HTML Validator](http://validator.w3.org/#validate_by_input)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ## Built with
----
+
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5 "HTML5")
 * [CSS3](https://developer.mozilla.org/en/docs/Web/CSS/CSS3 "CSS3")
@@ -61,17 +61,17 @@ Click on `index.html` available in the root directory to open the portfolio webs
 * Screen shots: Browser screen shots taken using [Full Page Screen Capture Chrome Extension](http://mrcoles.com/full-page-screen-capture-chrome-extension/ "Full Page Screen Capture")
 
 ## Found bug/New feature?
----
+
 
 Please report it via issues.
 
 ## References
----
+
 
 1. [W3 Schools](https://www.w3schools.com/)
 2. [Bootstrap 3](http://getbootstrap.com/)
 
 ## License
----
+
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
