@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/readme-logo.png">
+  <a href="https://ankur-dauneria.github.io/"><img src="img/readme-logo.png" title="Go to homepage"></a>
 </p>
 
 ## About
