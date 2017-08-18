@@ -2,7 +2,11 @@
   <a href="https://ankur-dauneria.github.io/"><img src="img/readme-logo.png" title="Go to homepage"></a>
 </p>
 
----
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  </a>
+</p>
 
 ## About
 
@@ -64,6 +68,7 @@ Click on `index.html` available in the root directory to open the portfolio webs
 * Fonts: [Font Awesome](http://fontawesome.io/ "Font Awesome"), [Social icons](https://lipis.github.io/bootstrap-social/ "Social Icons"), [Google fonts](https://fonts.google.com/ "Google Fonts")
 * Color gradient: [uiGradients](https://uigradients.com/ "uiGradients")
 * Screen shots: Browser screen shots taken using [Full Page Screen Capture Chrome Extension](http://mrcoles.com/full-page-screen-capture-chrome-extension/ "Full Page Screen Capture")
+* [Shields IO](https://shields.io/ "Shields IO")
 
 ## Found bug/New feature?
 
