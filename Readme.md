@@ -1,6 +1,7 @@
 <link href="https://fonts.googleapis.com/css?family=Playball" rel="stylesheet">
+<link href="css/readme.css" rel="stylesheet">
 
-# <p align=center style="font-family: 'Playball', cursive; font-size: 60px; color: #ff4d4d">Portfolio Website</p>
+# <p align=center class="heading">Portfolio Website</p>
 
 > Portfolio website is a small fully responsive frontend project. It serves a purpose of an online CV showcasing works of an individual to its potential audience.
 
