@@ -65,10 +65,11 @@ Click on `index.html` available in the root directory to open the portfolio webs
 * [CSS3](https://developer.mozilla.org/en/docs/Web/CSS/CSS3 "CSS3")
 * Javascript
 * Web framework: [Bootstrap 3](https://getbootstrap.com/docs/3.3/ "Bootstrap 3")
-* Fonts: [Font Awesome](http://fontawesome.io/ "Font Awesome"), [Social icons](https://lipis.github.io/bootstrap-social/ "Social Icons"), [Google fonts](https://fonts.google.com/ "Google Fonts")
+* Icons: [Font Awesome](http://fontawesome.io/ "Font Awesome"), [Social icons](https://lipis.github.io/bootstrap-social/ "Social Icons"), [Shields IO](https://shields.io/ "Shields IO")
+* Fonts: [Google fonts](https://fonts.google.com/ "Google Fonts")
 * Color gradient: [uiGradients](https://uigradients.com/ "uiGradients")
 * Screen shots: Browser screen shots taken using [Full Page Screen Capture Chrome Extension](http://mrcoles.com/full-page-screen-capture-chrome-extension/ "Full Page Screen Capture")
-* [Shields IO](https://shields.io/ "Shields IO")
+
 
 ## Found bug/New feature?
 
