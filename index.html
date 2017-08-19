@@ -82,7 +82,7 @@
                 <!--Project tile 1 -->
                 <div class="col-sm-4 col-md-4 col-lg-4 portfolio-item" id="id-portfolio">
                     <div class="well projectWell">
-                        <a class="fa fa-github fa-6 project" data-toggle="tooltip" data-placement="bottom" title="Projects" href="https://github.com/ankur-dauneria" aria-hidden="true"></a>
+                        <a class="fa fa-github fa-6 project" data-toggle="modal" data-tooltip="tooltip" data-placement="bottom" data-target="#myProjectModal" title="Projects" aria-hidden="true"></a>
                         <hr>
                         <div class="portfolio-description">
                             <p>Projects</p>
@@ -90,6 +90,69 @@
                     </div>
                 </div>
                 <!--end Project tile 1-->
+
+                <!--Project Modal-->
+                <div id="myProjectModal" class="modal fade" role="dialog">
+                    <div class="modal-dialog">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <h4 class="modal-title">Projects</h4>
+                            </div>
+                            <div class="modal-body">
+                                <ul class="modal-ulist">
+                                    <li class="well ptile projectcustom">
+                                        <div class="coding-project">
+                                            <div class="project-glimpse">
+                                                <img class="img-responsive img-rounded" src="img/movies-trailers.png" alt="project image" title="Movie Trailer Website" />
+                                            </div>
+                                            <div class="project-summary">
+                                                <hr>
+                                                <h3>Movie Trailer Website</h3>
+                                                <p class="languages">html &nbsp; css &nbsp; python</p>
+                                                <p>Server-side code written in Python to store a list of my favorite movies, including box art imagery and a movie trailer URL. This data is then served to a web page using HTML and CSS allowing visitors to
+                                                    review these movies and watch the trailers.</p>
+                                                <div>
+                                                    <a class="btn btn-social btn-github" href="https://github.com/ankur-dauneria/movies-trailers" data-toggle="tooltip" data-placement="bottom" title="Go to this gthub project">
+                                                        <span class="fa fa-github fa-2x"></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                    <li class="well ptile projectcustom">
+                                        <div class="coding-project">
+                                            <div class="project-glimpse">
+                                                <img class="img-responsive img-rounded" src="img/front-end.png" alt="project image" title="Portfolio Website" />
+                                            </div>
+                                            <div class="project-summary">
+                                                <hr>
+                                                <h3>Porfolio Website</h3>
+                                                <p class="languages">html5 &nbsp; css3 &nbsp; Bootstrap 3 &nbsp; JavaScript</p>
+                                                <p>Frontend side code is written in HTML5, CSS3 using Bootstrap 3 web framework. It is fully responsive and can render effectively across different devices. It uses bootstrap features for the responsive design.
+                                                    It uses popular Google fonts, font awesome icons in the design.</p>
+                                                <div>
+                                                    <a class="btn btn-social btn-github" href="https://github.com/ankur-dauneria/ankur-dauneria.github.io" data-toggle="tooltip" data-placement="bottom" title="Go to this gthub project">
+                                                        <span class="fa fa-github fa-2x"></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!--end Project Modal-->
 
                 <!--Publication tile 2 -->
                 <div class="col-sm-4 col-md-4 col-lg-4 portfolio-item">
