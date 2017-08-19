@@ -38,7 +38,7 @@ git clone https://github.com/ankur-dauneria/ankur-dauneria.github.io.git
 cd ankur-dauneria.github.io
 ```
 
-Click on `index.html` available in the root directory to open the portfolio website in a broswer of your choice (Google Chrome, Mozilla Firefox, Microsoft Internet explorer)
+Click on `index.html` available in the root directory to open the portfolio website in a broswer of your choice (Google Chrome, Mozilla Firefox, Microsoft Internet Explorer)
 
 ## Project structure
 
