@@ -24,7 +24,7 @@ body {
     color: #8e99f3;
 }
 
-#mainNavigationBar .logo {
+#mainnavigationbar .logo {
     padding-top: 25px;
     padding-bottom: 20px;
     font-size: 30px;
@@ -34,7 +34,7 @@ body {
 
 /* Name in navigation bar specific changes */
 
-#mainNavigationBar .name {
+#mainnavigationbar .name {
     padding-top: 20px;
     padding-bottom: 20px;
     font-family: 'Lato', sans-serif;
@@ -46,18 +46,18 @@ body {
 
 /*Designation specific changes */
 
-#mainNavigationBar .developer {
+#mainnavigationbar .developer {
     font-size: 12px;
     padding: 5px 25px;
     letter-spacing: 5px;
 }
 
-#mainNavigationBar .nav-item {
+#mainnavigationbar .nav-item {
     float: right;
     clear: both;
 }
 
-#mainNavigationBar .nav-link {
+#mainnavigationbar .nav-link {
     padding: 10px 15px;
 }
 
@@ -96,28 +96,28 @@ header.profile img {
     text-align: center;
 }
 
-.moto .smLinkedin {
+.moto .smlinkedin {
     color: #26418f;
 }
 
-.moto .smEmail {
+.moto .smemail {
     color: #26418f;
 }
 
-.moto .smLinkedin:hover {
+.moto .smlinkedin:hover {
     color: #8e99f3;
 }
 
-.moto .smEmail:hover {
+.moto .smemail:hover {
     color: #8e99f3;
 }
 
-.moto .smDownload {
+.moto .smdownload {
     color: #26418f;
     margin-top: 10px;
 }
 
-.moto .smDownload:hover {
+.moto .smdownload:hover {
     color: #8e99f3;
 }
 
@@ -299,14 +299,14 @@ hr {
 /*media queries*/
 
 @media (max-width: 480px) {
-    #mainNavigationBar .name {
+    #mainnavigationbar .name {
         font-size: 16px;
         letter-spacing: 4px;
     }
-    #mainNavigationBar .logo {
+    #mainnavigationbar .logo {
         padding-top: 30px;
     }
-    #mainNavigationBar .developer {
+    #mainnavigationbar .developer {
         font-size: 8px;
         padding: 1px 1px;
         letter-spacing: 3px;
@@ -318,7 +318,7 @@ hr {
         font-size: 16px;
         letter-spacing: 1px;
     }
-    #mainNavigationBar .nav-link {
+    #mainnavigationbar .nav-link {
         padding: 1px 1px;
     }
     .portfolio-description {
@@ -336,7 +336,7 @@ hr {
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
-    #mainNavigationBar .name {
+    #mainnavigationbar .name {
         font-size: 24px;
         padding-top: 10px;
         padding-bottom: 10px;
@@ -345,10 +345,10 @@ hr {
     .glyphicon.glyphicon-fire {
         font-size: 45px;
     }
-    #mainNavigationBar .nav-link {
+    #mainnavigationbar .nav-link {
         padding: 5px 10px;
     }
-    #mainNavigationBar .developer {
+    #mainnavigationbar .developer {
         padding: 1px 10px;
         letter-spacing: 4px;
         font-size: 10px;
@@ -359,10 +359,10 @@ hr {
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-    #mainNavigationBar .name {
+    #mainnavigationbar .name {
         font-size: 26px;
     }
-    #mainNavigationBar .nav-link {
+    #mainnavigationbar .nav-link {
         padding: 5px 10px;
     }
     .portfolio-item .fa-6 {
@@ -380,10 +380,10 @@ hr {
 }
 
 @media (min-width: 980px) {
-    #mainNavigationBar .name {
+    #mainnavigationbar .name {
         font-size: 30px;
     }
-    #mainNavigationBar .nav-link {
+    #mainnavigationbar .nav-link {
         padding: 10px 15px;
     }
 }
