@@ -216,22 +216,22 @@ hr {
 
 .modal-header {
     background-color: #80a4d0;
-    font-family: 'Lato', sans-serif;
-    letter-spacing: 1.5px;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .modal-body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     letter-spacing: 1px;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 .modal-bodysubheading {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .modal-title {
     font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .modal-ulist {
@@ -269,6 +269,12 @@ hr {
 
 .awd-star {
     color: #3f51b5;
+}
+
+.projectimage {
+    height: auto;
+    width: 100%;
+    display: block;
 }
 
 
@@ -371,6 +377,15 @@ hr {
     }
     .portfolio-description {
         font-size: 24px;
+    }
+    .modal-title {
+        font-size: 22px;
+    }
+    .modal-body {
+        font-size: 17px;
+    }
+    .modal-bodysubheading {
+        font-size: 18px;
     }
 }
 
