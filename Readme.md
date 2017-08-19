@@ -72,6 +72,7 @@ Click on `index.html` available in the root directory to open the portfolio webs
 * Fonts: [Google fonts](https://fonts.google.com/ "Google Fonts")
 * Color gradient: [uiGradients](https://uigradients.com/ "uiGradients")
 * Screen shots: Browser screen shots taken using [Full Page Screen Capture Chrome Extension](http://mrcoles.com/full-page-screen-capture-chrome-extension/ "Full Page Screen Capture")
+* Box shadow: [CSSmatic](http://www.cssmatic.com/box-shadow "CSSmatic")
 
 
 ## Found bug/New feature?
